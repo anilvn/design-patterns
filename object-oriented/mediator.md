@@ -96,7 +96,18 @@ public class MediatorPatternDemo {
 
         user1.sendMessage("Hello, everyone!");
     }
+```
+### Output:
+```yaml
+Alice sends: Hello, everyone!
+Bob receives: Hello, everyone!
+Charlie receives: Hello, everyone!
+```
+
+### UML:
+
 ```plantuml
+
 @startuml
 interface ChatMediator {
     + sendMessage(String message, User user)
@@ -132,14 +143,5 @@ User <|-- ChatUser
 ChatMediator <-- User : uses
 ChatRoom o--> User : manages
 @enduml
-```
-
-
-
-
-```yaml
-Alice sends: Hello, everyone!
-Bob receives: Hello, everyone!
-Charlie receives: Hello, everyone!
 ```
 

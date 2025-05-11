@@ -5,20 +5,11 @@
 | # | Question |
 |---|----------|
 | **Abstract Factory Pattern** |
-| 5 | [What is the Abstract Factory Design Pattern?](#what-is-the-abstract-factory-design-pattern) |
-| 6 | [How to implement Abstract Factory Pattern in Java?](#how-to-implement-abstract-factory-pattern-in-java) |
-| 7 | [What are the advantages and disadvantages of Abstract Factory Pattern?](#what-are-the-advantages-and-disadvantages-of-abstract-factory-pattern) |
-| 8 | [When should you use Abstract Factory vs Factory Method patterns?](#when-should-you-use-abstract-factory-vs-factory-method-patterns) |
-| **Builder Pattern** |
-| 9 | [What is the Builder Design Pattern?](#what-is-the-builder-design-pattern) |
-| 10 | [How to implement the Builder Pattern in Java?](#how-to-implement-the-builder-pattern-in-java) |
-| 11 | [What are the advantages and disadvantages of Builder Pattern?](#what-are-the-advantages-and-disadvantages-of-builder-pattern) |
-| 12 | [How does the Builder Pattern differ from the Factory Pattern?](#how-does-the-builder-pattern-differ-from-the-factory-pattern) |
-| **Prototype Pattern** |
-| 13 | [What is the Prototype Design Pattern?](#what-is-the-prototype-design-pattern) |
-| 14 | [How to implement the Prototype Pattern in Java?](#how-to-implement-the-prototype-pattern-in-java) |
-| 15 | [What are the advantages and disadvantages of Prototype Pattern?](#what-are-the-advantages-and-disadvantages-of-prototype-pattern) |
-| 16 | [How does Prototype Pattern handle deep cloning?](#how-does-prototype-pattern-handle-deep-cloning) |
+| 1 | [What is the Abstract Factory Design Pattern?](#what-is-the-abstract-factory-design-pattern) |
+| 2 | [How to implement Abstract Factory Pattern in Java?](#how-to-implement-abstract-factory-pattern-in-java) |
+| 3 | [What are the advantages and disadvantages of Abstract Factory Pattern?](#what-are-the-advantages-and-disadvantages-of-abstract-factory-pattern) |
+| 4 | [When should you use Abstract Factory vs Factory Method patterns?](#when-should-you-use-abstract-factory-vs-factory-method-patterns) |
+
 
 
 ## What is the Abstract Factory Design Pattern?
